@@ -1,0 +1,46 @@
+/* body{
+    background-color: #f8f9ff;
+} */
+nav{
+    background-color: #f8f9ff;
+}
+nav ul{
+    word-spacing: 30px;
+}
+nav ul a{
+    text-decoration: none;
+    color: #1b1642;
+}
+
+nav img{
+    position: relative;
+    left: 100px;
+    top: 5px;
+}
+
+nav button{
+   position: relative;
+   right: 150px;
+   background-color: #0e0a47 !important;
+}
+section{
+    background-color: #f8f9ff;
+}
+
+#Demo{
+    background-color: white;
+}
+#Demo:hover{
+    background-color: #D0DAFF !important;
+}
+
+#start{
+    background-color: #0e0a47;
+}
+#start:hover{
+    background-color: yellow;
+}
+
+section{
+    background-color: white;
+}
